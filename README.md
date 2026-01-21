@@ -38,7 +38,6 @@ Here’s an example of **ClipXpert** in action for keyword-based video extractio
 ---
 
 
-
 ## 📄 Citation
 If you find our work useful for your research, please consider citing our paper.
 
